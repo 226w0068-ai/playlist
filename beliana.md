@@ -28,12 +28,13 @@ consola.log("Hola Git");
 - Sobredosis - Romero Santos 
 - Propuesta indecente -Romeo santos
 ## Banda 
-- 
--
--
+- Ya no vuelvo contigo
+- El paciente -Alfredo Olivas
+- Mi Princesa -Remmy 
+- Contigo - Calibre 50 
 
-## cumbias 
-- Tu y TU -Los angeles azules 
+## El-ectronica
+
 -
 -
 
